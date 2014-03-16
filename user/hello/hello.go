@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Printf("Hello, world. Sqrt(2) = %v\n", newmath.Sqrt(2))
-	fmt.Printf("Hello, world. Sqr (2) = %v\n", newmath.Sqr(2))
+	fmt.Println("Hello, world. Sqrt(2) = ", newmath.Sqrt(2))
+	fmt.Println("Hello, world. Sqr (2) = ", newmath.Sqr(2))
 }
