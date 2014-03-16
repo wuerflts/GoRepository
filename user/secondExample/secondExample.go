@@ -1,6 +1,7 @@
 package main
 
 import (
+	// a unused import is an error !
 	"fmt"
 	"math"
 	"math/cmplx"
